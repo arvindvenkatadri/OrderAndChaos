@@ -1,10 +1,24 @@
-# OrderAndChaos
+---
+title: "Order and Chaos"
+author: "Arvind Venkatadri"
+date: "March 09, 2020"
+output:
+  pdf_document:
+    toc: yes
+  html_notebook:
+    fig_caption: yes
+    number_sections: yes
+    toc: yes
+  html_document:
+    df_print: paged
+    toc: yes
+  word_document:
+    toc: yes
+---
+# Order and Chaos
 My course planning for my Order and Chaos course at Srishti Institute of Art, Design, and Technology
-# Course Modules for Math Models in Art and Design - Order and Chaos
-### October 2019
-@(Course Plans)[Marxico]
 
-[TOC]
+### Abstract
 
 The course is based on large Human Experiences that can form the basis for **Model-based** Thinking.  
 
@@ -19,6 +33,7 @@ The Models will be understood, internalized, fitted in with what we already know
 - Motivate “Canonical Movements” and Operations (Translation / Rotation / Reflection / Glide Reflection)
 - Friezes / Lattices / Wallpapers / Kolams / Sona Art / Fibonacci Kolams / Ethno-mathematics
 - [Saty Raghavachary](https://www.youtube.com/watch?v=-l9za7UlzKM)
+
 ##### Orientation
 - To be Written up properly (TBD) 
 - Introduction to L- Systems; Interpretation of Kolam as L- System: Iterations
@@ -155,6 +170,7 @@ The Models will be understood, internalized, fitted in with what we already know
    - Geometric interpretation of Canonical Operations
 	   - Translation, Reflections, Glide Reflections, Rotations
    - Iterations
+   - @3blue1brown's [Exponential and Logistic Growth Video](https://t.co/UNqvsybiAL) ( Corona Virus COVID-19)
 ##### Chaos Theory
    - Chaos from Deterministic Iterations
    - Frame - Golubitsky: Symmetry on Average
@@ -165,7 +181,7 @@ The Models will be understood, internalized, fitted in with what we already know
    - [Yale Fractals Course](https://users.math.yale.edu/public_html/People/frame/Fractals/)
    - [Fractal text analysis of James Joyce's Ulysses](https://phys.org/news/2016-01-world-greatest-literature-reveals-multifractals.html)
    
-#####Rationality, Human Behaviour and Game theory
+##### Rationality, Human Behaviour and Game theory
    - Alexander Dumas “ The Three Musketeers” as a Manifestation of “Prisoner’s Dilemma”
    - South West Airlines episode
    - Public Behaviour and extract from V S Raghunathan’s “Games Indians Play"
@@ -215,6 +231,7 @@ The Models will be understood, internalized, fitted in with what we already know
     * Experiment design: Blindness
     * MonteCarlo experiment to calculate pi
     * Generating Random Numbers as Modelling in Monte Carlo methods
+    
 ##### Hypothesis Testing and Design of Experiments
 - Observational and Interventional
 - College Survey: 
@@ -223,7 +240,8 @@ The Models will be understood, internalized, fitted in with what we already know
 	    - No of Readings/Samples to get good Confidence Intervals
 	    - Standard Errors, CI
 	    - Motivate [Allen Downey Stat Test](http://allendowney.blogspot.com/2016/06/there-is-still-only-one-test.html)
-#####Bayesian Estimation
+
+##### Bayesian Estimation
 - Bayesian Estimation using [Harry Potter](https://link.springer.com/article/10.3758/s13423-017-1262-3)
 - David Robinson: Understanding empirical Bayes estimation (using baseball statistics) <http://varianceexplained.org/r/empirical_bayes_baseball/>
 - Rasmus Baath [Bayesian Estimation in R](https://docs.google.com/presentation/d/1Lv5_IBi_PXbtp8FbA8-qBI0PwJAvPlP9OZ-6t6l6gwM/edit#slide=id.p)
@@ -282,4 +300,5 @@ link this to Symmetry
 - Statistics
 	- Stephen Stigler: Seven Pillars of Statistical Wisdom
 	- David Spiegelhalter: The Art of Statistics
-	- Derek Rowbotham
+	- Derek Rowbotham: Statistics without Tears
+	- 
