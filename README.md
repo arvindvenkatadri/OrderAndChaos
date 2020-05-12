@@ -86,7 +86,8 @@ The Models will be understood, internalized, fitted in with what we already know
  - Activity: 
 	 - Fractals : Julia and Mandelbrot using [XaOs](https://sourceforge.net/projects/xaos/) or equivalent
 	 - [Fractal text analysis of James Joyce's Ulysses](https://phys.org/news/2016-01-world-greatest-literature-reveals-multifractals.html)
-	 -  [Fractal Antennas](http://www.ece.iit.edu/~pfelber/fractalantennas.pdf) by Phil Felber
+	 -  [Fractal Antennas](http://www.ece.iit.edu/~pfelber/fractalantennas.pdf) by Phil Felber  
+
 ##### References
    - [SantaFe Institute Complexity Explorer](ComplexityExplorer.org)
    -  [Yale Fractals Course](https://users.math.yale.edu/public_html/People/frame/Fractals/)
@@ -217,12 +218,16 @@ The Models will be understood, internalized, fitted in with what we already know
    - Axelrod Experiment and Strategy
    - Play Prisoner’s Dilemma Game on Nicky Case Website [Trust Game](https://ncase.me/trust/)
    - Schelling Segregation Experiment (Nick Case website)
-   - Hotelling’s experiment from [Presh Talwarkar’s Book](https://mindyourdecisions.com/blog/tag/hotellings-game/)
-   - Schelling Points as an "Emergent Phenomenon" ( Preface of Thomas Schelling's Book, example on Audience Seating )
-   - Visit to local “urban ghetto”
-   - Blockchain or Email + Timer based stock exchange: 
-	- random cheating, personal values and strategies, 4R ( Reward, Risk, Regret, Repetition)
-   - Wishlist: Create Bitcoin economy in class using a captive Bitcoin installation
+    -  Hotelling’s experiment from [Presh Talwarkar’s Book](https://mindyourdecisions.com/blog/tag/hotellings-game/)
+   - Schelling Points as an "Emergent Phenomenon" ( Preface of Thomas Schelling's Book, example on Audience Seating )  
+    - Visit to local “urban ghetto”  
+    - Blockchain or Email + Timer based stock exchange:    
+      - random cheating, personal values and strategies  
+      - 4R ( Reward, Risk, Regret, Repetition)  
+   - Wishlist: Create Bitcoin economy in class using a captive Bitcoin installation  
+   - Generative Adversarial Networks (GANs):  
+    - Use Game Theory in to create faces to be used in Illustration  
+    - Nvidia AI Playground: [GANimal and GauGAN](https://www.nvidia.com/en-us/research/ai-playground/)
 
 ## Sound
 #### Fourier Series and Music Synthesis
