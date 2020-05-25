@@ -1,7 +1,7 @@
 ---
 title: "Order and Chaos"
 author: "Arvind Venkatadri"
-date: "March 09, 2020"
+date: "May 25, 2020"
 output:
   html_document:
     df_print: paged
@@ -123,8 +123,11 @@ The Models will be understood, internalized, fitted in with what we already know
 	   - Analysis using Voronoi diagrams in R ( R Package: deldir )
    - Florence Nightingale and her Coxcomb chart and how she could have used a Voronoi diagram
    - Multi-dimensional Distances:
-	   - Support Vector Machines: Andriy Burkov [Machine Learning in 100 Pages](http://themlbook.com/wiki/doku.php)
-	   - Math for Machine Learning (https://mml-book.github.io/)
+	   - **Support Vector Machines**: Andriy Burkov [Machine Learning in 100 Pages](http://themlbook.com/wiki/doku.php)
+	   - [Math for Machine Learning] (https://mml-book.github.io/)
+	   - Sorting Veggies based on touch and crouching at table level. Then stand up and use eyes. Motivate `kernel trick` from this exercise; tie up to TRIZ ( Another Dimension) + Childhood story of Hide and Seek in the attic.
+	   - Projection as **shadow** to explain distance of support vectors from separation hyperplane
+	   
    - Classroom and Outdoor Assignments:
 	   -  Using Proximity and Machine Learning together: 
 		   -  Use [Wekinator](http://www.wekinator.org/)
@@ -136,7 +139,6 @@ The Models will be understood, internalized, fitted in with what we already know
 		   - Kolams on a Map: City centres as pulli-s:
 		   -  Use the work of Darrah Chavey and Madhuri Bapat (Bridges Conference)
 		   -  Kolam based story illustration
-
 
 ## Connectivity
 - 	Set up [Barabasi's cocktail party](http://networksciencebook.com/chapter/3) experiment in class with chocolate instead of wine. 
@@ -171,11 +173,12 @@ The Models will be understood, internalized, fitted in with what we already know
 	- Use [NetLogo](https://ccl.northwestern.edu/netlogo/download.shtml) to Examine and Understand some Network Science Models : 
 		- Friendship Paradox, Kevin Bacon Number
 		-  Random Networks, Clustering, Small Worlds, Preferential Attachment, Scale-Free networks
-			-  Mathew Effect from Bible
+		-  Mathew Effect from Bible
 		-  Euler Walk, Bridges of Konigsberg
 		-  Hamiltonian Walk and Journeyman Problem
 		-  [Bidding Market Game in NetLogo]( http://ccl.northwestern.edu/netlogo/models/BiddingMarket) as a view to **Stock Market** workings
-	- Real World Examples
+		
+	- Real World Examples:
 		- CityLab Blog: [How Cars Divide America](https://www.citylab.com/transportation/2018/07/how-cars-divide-america/565148/?utm_source=feed)
 		- Disease Propagation [Game](vax.herokuapp.com)
 		- Disease Propagation and Epidemics and Percolation Theory : Kevin Smiler - Going Critical - [Models for Disease Diffusion](https://meltingasphalt.com/interactive/going-critical/)
@@ -227,7 +230,9 @@ The Models will be understood, internalized, fitted in with what we already know
    - Wishlist: Create Bitcoin economy in class using a captive Bitcoin installation  
    - Generative Adversarial Networks (GANs):  
     - Use Game Theory in to create faces to be used in Illustration  
-    - Nvidia AI Playground: [GANimal and GauGAN](https://www.nvidia.com/en-us/research/ai-playground/)
+    - Nvidia AI Playground: [GANimal and GauGAN](https://www.nvidia.com/en-us/research/ai-playground/)  
+    - The [GAN Lab](https://poloclub.github.io/ganlab/)
+    - The [GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
 
 ## Sound
 #### Fourier Series and Music Synthesis
