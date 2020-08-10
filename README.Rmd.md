@@ -3,43 +3,41 @@ title: "Order and Chaos"
 author: "Arvind Venkatadri"
 date: "May 25, 2020"
 output:
-  html_document: 
+  pdf_document:
     toc: yes
-    theme: paper
-    highlight: tango
-    fig_caption: yes
   html_notebook:
     fig_caption: yes
     number_sections: yes
     toc: yes
-  word_document:
+  html_document:
+    df_print: paged
     toc: yes
-  pdf_document:
+  word_document:
     toc: yes
 ---
 ## Introduction
 The course is based on large Human Experiences that can form the basis for **Model-based** Thinking.  
 
-Each of the following Section Titles is an *Abstract Noun* that represents one such **Human Experience**. The understanding of each Human Experience is intended to lead to a Model, in the manner of **Charlie Munger** and **Scott E. Page**.  The Human Experience + Model will be, in each case, motivated by contemplating a well known Story, or a Drama, and a Painting. The Models may resemble a Thought Experiment, or a Diagram, or a simple Procedure or Math Formula, or a piece of Computer Code. The Models are intended to provide directions for artistic and design endeavours.
+Each of the following Section Titles is an *Abstract Noun* that represents one such **Human Experience**. The understanding of each Human Experience is intended to lead to a Model, in the manner of Charlie Munger and Scott E. Page.  The Human Experience + Model will be, in each case, motivated by contemplating a well known Story, or a Drama, and a Painting. The Models may resemble a Thought Experiment, or a Diagram, or a simple Procedure or Math Formula, or a piece of Computer Code. The Models are intended to provide directions for artistic and design endeavours.
 
 The Models will be understood, internalized, fitted in with what we already know, and generalized to new applications. This will done with the help of activities based on games, videos, art-related activities, open source software tools, field experiments, field visits, additional readings, writings and discussions. 
 
-## Emergence
-**Other Terms:** ` Coherence / Aggregation / Unison / Self Organization`
+## Complexity
+**Other Terms:** ` Emergence /  Coherence / Aggregation / Unison / Self Organization`
 
 - Mitchell Resnick: [Beyond the Centralized Mindset](https://llk.media.mit.edu/papers/decentralized/)
-- Steven Johnson: "Emergence": Chapter 1. `The Myth of the Ant Queen` 
-- Motivate Philip Anderson's idea "More is Different" [PDF](https://www.tkm.kit.edu/downloads/TKM1_2011_more_is_different_PWA.pdf)
-- Motivate "individual, simple rules" that lead to "emergence of patterns" as a central idea
-  - TBD: Create a Classroom Game here. Some Simple and not so simple Phenomena  
-	  -  Mexican Wave and Clapping Patterns  
-	  -  Arpita Baypeyi’s Idea: "Repetitive Patterns in Dance - Kathak"  
-	  -  Kannada Proverb "Gumpinalli Govinda"  
-	  -  Douglas Hofstadter, ["Ant Fugue" in his 1979 book](http://people.whitman.edu/~herbrawt/classes/110/Hofstadter.pdf)
-	  -  Use the "Rain" video ( though that does have Central Control...). Can be set up to be an emergent exercise:  
+- Steven Johnson: "Emergence": Chapter..TBD  
+- Motivate "individual, simple rules" that lead to "emergence of patterns" as a central idea  
+- Motivate Philip Anderson's idea "More is Different" [PDF](https://www.tkm.kit.edu/downloads/TKM1_2011_more_is_different_PWA.pdf)  
+- Simple and not so simple Phenomena  
+	-  Mexican Wave and Clapping Patterns  
+	-  Arpita Baypeyi’s Idea: "Repetitive Patterns in Dance - Kathak"  
+	-  Kannada Proverb "Gumpinalli Govinda"  
+	-  Douglas Hofstadter, "Ant Fugue" in his 1979 book   
+	-  Use the "Rain" video ( though that does have Central Control...). Can be set up to be an emergent exercise:  
 		-  by setting up the three actions ( snapping fingers; slapping the knees; Jumping)  
 		-  Rules would be to decide whether or not go to the next action in the sequence, spending 15-20 seconds in each  
-		-  Imitate your nearest neighbour ( link later to `kNN`)
+		-  Imitate your nearest neighbour  
 
 ## Feedback
 - Understand Basics of Systems, Simulations and Feedback Loops 
